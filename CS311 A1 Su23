@@ -1,0 +1,43 @@
+ /* Task1
+     Write a C program in a file called task_one.c that uses printf to display "To C, or not to C: that is the question.\n". 
+ */
+ 
+ #include <stdio.h> 
+
+int main() { 
+    printf("To C, or not to C: that is the question.\n"); 
+    return 0; 
+} 
+
+/*Task2
+    Write a C program in a file called task_two.c that uses the write system call to display "To C, or not to C: that is the question.\n". 
+    */
+
+#include <unistd.h> 
+
+#include <fcntl.h> 
+
+ int main() { 
+    char text[] = "To C, or not to C: that is the question.\n"; 
+    write(1, text, sizeof(text) - 1); 
+    return 0; 
+} 
+
+/*Task3:
+    Shipping companies often charge extra for boxes that are large but very light, basing the fee on volume instead of weight.
+    The usual method to compute the “dimensional weight” is to divide the volume by 166 (the allowable number of cubic inches per pound). 
+
+Write a C program in a file called task_three.c that computes and displays the dimensional weight of a particular box. 
+Test your code with the following Dimensions: 12x10x8
+*/
+       #include <stdio.h> 
+
+ int main() { 
+    int length = 12; 
+    int width = 10; 
+    int height = 8; 
+    int dimensionalWeight = (length * width * height) / 166; 
+    printf("The dimensional weight of the box is: %d\n", dimensionalWeight); 
+    return 0; 
+
+} 
