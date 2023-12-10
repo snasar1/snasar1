@@ -25,5 +25,6 @@ If you have any exciting projects or opportunities for collaboration, I'd love t
 My GitHub repositories showcase my coding journey, projects, and contributions. Take a look around, and feel free to connect with me!
 
 Connect with me:
-- LinkedIn: [Sumira Nasar]([Your LinkedIn Profile Link](https://www.linkedin.com/in/sumira-n-969bba197/))
+- LinkedIn: [Sumira Nasar](https://www.linkedin.com/in/sumira-n-969bba197/)
+
 
