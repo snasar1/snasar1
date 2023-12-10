@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @snasar1
-- 👀 I’m interested in writing codes mainly for games and softwares,but anything similar as well to improve my skills.
-- 🌱 I’m currently a Computer Science student at Pennsylvania State University, Abington. Anticipated graduation in May 2024.
-- 💞️ I’m looking to collaborate on any kind of code writings that will help me improve.
-- 📫email: sumiranasar@gmail.com
-- I have experience writing codes in Python, C, C++, JavaScript, HTML, and CSS languages
+# Hello, I'm Sumira Nasar! 👋
 
-<!---
-snasar1/snasar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Computer Science student at Pennsylvania State University, Abington, with an expected graduation in May 2024. My primary interest lies in crafting codes for games, software, and anything else that helps enhance my coding skills.
+
+## 🔧 Technologies & Skills
+
+I have experience working with various programming languages, including:
+- Python
+- C
+- C++
+- JavaScript
+- HTML
+- CSS
+
+## 🌱 Current Endeavors
+
+Currently focused on expanding my knowledge and skills in software development, I am open to collaborations and opportunities that contribute to my growth as a developer.
+
+## 🤝 Let's Collaborate
+
+If you have any exciting projects or opportunities for collaboration, I'd love to hear from you! Feel free to reach out to me via email at [sumiranasar@gmail.com](mailto:sumiranasar@gmail.com).
+
+## 📚 Learning Journey
+
+My GitHub repositories showcase my coding journey, projects, and contributions. Take a look around, and feel free to connect with me!
+
+<!-- Connect with me:
+- LinkedIn: [Sumira Nasar]([Your LinkedIn Profile Link](https://www.linkedin.com/in/sumira-n-969bba197/)) -->
+
